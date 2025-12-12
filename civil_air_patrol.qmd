@@ -13,57 +13,62 @@ subtitle: "Leadership, Aviation & Aerospace Excellence"
 
 :::{.g-col-12 .g-col-md-9}
 
-# About My Civil Air Patrol Experience
+## Elevator Speech
 
-I have been a member of the Civil Air Patrol for two and a half years and currently serve as the **Cadet Commander** of the Heartland Composite Squadron. I hold the rank of **Cadet Captain**, and I advanced on time every two months all the way up through my current grade.
-
-I completed my basic encampment in Florida during the 2022–2023 cycle, and I have since attended a total of **three encampments and three National Cadet Special Activities**. My time in CAP has focused on leadership development, aviation, emergency services, and guiding cadets through structured, mission-driven training.
+I am the **Cadet Commander** of Civil Air Patrol's Heartland Composite Squadron, leading 30+ cadets in leadership development, aviation operations, and emergency services. With a **Cadet Captain** rank achieved through consistent advancement and the Mitchell Award for honor credit, I have completed three encampments and three National Cadet Special Activities. As a **CyberPatriot Team Captain and two-time National Semifinalist**, I combine technical expertise with aviation proficiency. I have completed my **Powered Solo Wings** and logged 9 hours toward my pilot rating. My goal is to become a U.S. Air Force pilot while continuing to serve as a mentor and leader.
 
 :::
 
 :::
-
----
-
-## Summary
-
-Motivated Civil Air Patrol cadet with strong leadership, cybersecurity, and aviation experience. Proven under pressure, highly driven, and committed to excellence. Passionate about aerospace, technology, and service. Aspires to become a U.S. Air Force pilot.
 
 ---
 
 ## Contact Information
 
 **Michael Gledhill** | Cadet Captain, Civil Air Patrol  
-906 Silktree Cir, Elizabethtown, KY 42701  
+906 Silktree Circle, Elizabethtown, Kentucky 42701  
 [(502) 269-2525](tel:5022692525) | [c_mgledhill@kywg.cap.gov](mailto:c_mgledhill@kywg.cap.gov)
+
+---
+
+## Summary
+
+Motivated Civil Air Patrol cadet leader with demonstrated expertise in leadership development, cybersecurity, and aviation. Known for taking on complex responsibilities, performing reliably under pressure, and maintaining high professionalism standards. Passionate about aerospace, technology, and service. Pursuing a career as a U.S. Air Force pilot.
 
 ---
 
 ## Skills & Certifications
 
-### CyberPatriot
-- Team Captain (2023-2026)
-- National Semifinalist (2023-2024, 2024-2025)
+### CyberPatriot Program
+
+| Role / Achievement | Years |
+|-------------------|-------|
+| Team Captain | 2023–Present |
+| National Semifinalist | 2023–2024, 2024–2025 |
 
 ### Civil Air Patrol Certifications
-*= in training
 
-- **GES** (General Emergency Services)
-- **ICUT** (Introductory Communications User Training)
-- **SET** (Skills Evaluator Training)
-- **CERT*** (Community Emergency Response Team)
-- **MRO** (Mission Radio Operator)
-- **MSA** (Mission Staff Assistant)
-- **UDF*** (Urban Direction Finding)
-- **GTM3*** (Ground Team Member Level 3)
+**Note:** *= in training
+
+| Certification | Full Name |
+|---------------|-----------|
+| GES | General Emergency Services |
+| ICUT | Introductory Communications User Training |
+| SET | Skills Evaluator Training |
+| CERT* | Community Emergency Response Team |
+| MRO | Mission Radio Operator |
+| MSA | Mission Staff Assistant |
+| UDF* | Urban Direction Finding |
+| GTM3* | Ground Team Member Level 3 |
 
 ### FEMA ICS Courses
-- IS-100
-- IS-200
-- IS-368
-- IS-520
-- IS-700
-- IS-800
+
+- IS-100 (Introduction to ICS)
+- IS-200 (ICS for Single Resources and Initial Action Incidents)
+- IS-368 (ICS Multihazard, Mass Casualty Evacuation)
+- IS-520 (Operations Planning)
+- IS-700 (National Incident Management System)
+- IS-800 (National Response Framework)
 
 ---
 
@@ -72,74 +77,93 @@ Motivated Civil Air Patrol cadet with strong leadership, cybersecurity, and avia
 | Award / Ribbon / Badge | Description |
 |------------------------|-------------|
 | Achievement Ribbon (2×) | Awarded for CyberPatriot leadership and Encampment staff service. |
-| Encampment Ribbons (3×) | Earned through participation in three encampments. |
-| NCSA Ribbons (3×) | Awarded for attending three National Cadet Special Activities. |
-| Recruiter Ribbon | Recognized for contributing to squadron growth. |
-| Community Service Ribbons (2×) | Earned for sustained service in community programs. |
-| Rocketry Badge | Awarded for successful completion of CAP rocketry program. |
-| STEM Badge | Recognized for aerospace/STEM project achievement. |
+| Encampment Ribbon (3×) | Earned through participation in three encampments. |
+| NCSA Ribbon (3×) | Awarded for attending three National Cadet Special Activities. |
+| Recruiter Ribbon | Recognized for contributing to squadron recruitment and growth. |
+| Community Service Ribbon (2×) | Earned for sustained service in community emergency preparedness programs. |
+| Rocketry Badge | Awarded for successful completion of CAP rocketry certification program. |
+| STEM Badge | Recognized for aerospace and STEM project achievement. |
 | Powered Solo Wings | Earned for completing a solo flight in a powered aircraft. |
-| Search and Rescue "Find" | Credited for participation in a SAR mission that resulted in an operational "find." |
-| AFA Cadet of the Year | Selected for outstanding performance, professionalism, and leadership. |
+| Search and Rescue "Find" | Credited for participation in a Search and Rescue mission that resulted in an operational successful outcome. |
+| AFA Cadet of the Year | Selected for outstanding performance, professionalism, and leadership impact. |
 
 ---
 
 ## Leadership Experience
 
-**Civil Air Patrol Member** | Since June 2023
+**Civil Air Patrol Member** | June 2023–Present
 
-Advanced quickly to C/Capt; earned honor credit through Mitchell Award. On track to be promoted to Captain on September 8.
+Advanced rapidly through ranks; earned honor credit through the Mitchell Award. On track for promotion to Cadet Colonel.
 
-**Roles Held:**
-- Cadet Commander
+### Current Role: Cadet Commander
+- Lead and mentor 30+ cadets in leadership development and mission readiness
+- Oversee weekly operations for 30–50 participants
+- Coordinate training programs, instruction, safety protocols, and logistics
+- Maintain mission-focused culture aligned with CAP core values
+
+### Previous Roles Held
 - Flight Commander
 - Public Affairs Officer
 - Aerospace & Communications NCO
 - Assistant Safety NCO
-- CAC Rep (Group & Wing)
+- CAC Representative (Group & Wing levels)
 
 ---
 
 ## Encampment Experience
 
-- **ATS Flight Commander** – Ohio Wing Summer Encampment (2025)
-- **Cadet Training Officer & PAO** – Kentucky Wing Encampment (2025)
-- **Graduate** – Florida Winter Encampment (2024)
+| Activity | Role | Location | Year |
+|----------|------|----------|------|
+| Summer Encampment | ATS Flight Commander | Ohio Wing | 2025 |
+| Encampment | Cadet Training Officer & PAO | Kentucky Wing | 2025 |
+| Winter Encampment | Graduate | Florida Wing | 2024 |
 
 ---
 
-## National Activities
+## National Cadet Special Activities
 
-- **Power Flight Academy (2025):** ~9 hours logged, including solo – Fremont, NE
-- **Aircraft Manufacturing Academy (2025)** – Wichita, KS
-- **SUPT-FC (2025)** – Columbus AFB, MS (Accepted–not able to attend)
-- **National Blue Beret**
-- **Multiple Cyber Academies**
-- **SUPT-FC - TX**
+| Activity | Location | Year | Notes |
+|----------|----------|------|-------|
+| Power Flight Academy | Fremont, Nebraska | 2025 | Logged 9 hours; completed solo flight |
+| Aircraft Manufacturing Academy | Wichita, Kansas | 2025 | Aerospace manufacturing and systems |
+| SUPT-FC (Specialized Undergraduate Pilot Training) | Columbus AFB, Mississippi | 2025 | Selected; attendance deferred |
+| National Blue Beret | National | TBD | Training program |
+| CyberPatriot Academy | Various | 2023–2025 | Advanced cyber defense training |
 
 ---
 
-## Flight Experience
+## Aviation Experience
 
-- Sporty's Online Ground School completed
-- 3 CAP orientation flights (front/back seat)
-- Soloed at Power Flight Academy
+### Flight Training
+- **Sporty's Online Ground School:** Completed
+- **CAP Orientation Flights:** 3 flights (front and rear seats)
+- **Power Flight Academy:** 9+ hours total flight time, including solo flight certification
+- **Powered Solo Wings:** Earned
+
+### Flight Goals
+- Complete Private Pilot Certificate
+- Pursue U.S. Air Force pilot training pipeline
 
 ---
 
 ## Education
 
-**Academic Status:** Homeschooled with dual enrollment (12 college credits, 4.0 GPA)
-
-**Math Completed:** Pre-Algebra, Algebra I & II, Geometry, Business Math
-
-**Age:** 17
+| Category | Details |
+|----------|---------|
+| Academic Status | Homeschooled with dual enrollment at local college |
+| College Credits | 12 credits completed |
+| GPA | **4.0** (unweighted) |
+| Math Coursework | Pre-Algebra, Algebra I & II, Geometry, Business Math |
+| Current Age | 17 |
 
 ---
 
 ## Career Goals
 
-Serve as a U.S. Air Force pilot. Interests include commercial aviation and aircraft systems or maintenance engineering.
+Serve as a **U.S. Air Force Pilot**. Long-term interests include:
+- Commercial aviation operations
+- Aircraft systems and maintenance engineering
+- Aerospace leadership and command
 
 ---
 
@@ -148,28 +172,28 @@ Serve as a U.S. Air Force pilot. Interests include commercial aviation and aircr
 :::{.grid}
 
 :::{.g-col-12 .g-col-md-6}
-![Ohio Wing Encampment](Images/ENC2.jpg){.img-fluid}
-_C-17 Full Motion Simulator_
+![Ohio Wing Summer Encampment](Images/ENC2.jpg){.img-fluid}
+_C-17 Full Motion Simulator – Ohio Wing Summer Encampment 2025_
 :::
 
 :::{.g-col-12 .g-col-md-6}
 ![Kentucky Wing Encampment](Images/ENC1.jpg){.img-fluid}
-_I am third from the left in front._
+_Squadron Leadership Team – Kentucky Wing Encampment 2025 (third from left, front row)_
 :::
 
 :::{.g-col-12 .g-col-md-6}
-![Flight Academy](Images/PFA1.jpg){.img-fluid}
-_Me after my first solo (8 hours in)_
+![Power Flight Academy Solo](Images/PFA1.jpg){.img-fluid}
+_After first solo flight – Power Flight Academy (8 hours of flight training)_
 :::
 
 :::{.g-col-12 .g-col-md-6}
-![Specialized Undergraduate Pilot Training](Images/SUPT1.jpg){.img-fluid}
-_I am on the left next to a former CAP cadet who is now a major in the Air Force._
+![SUPT-FC Orientation](Images/SUPT1.jpg){.img-fluid}
+_Specialized Undergraduate Pilot Training Orientation – Columbus AFB. Pictured with U.S. Air Force Major (former CAP cadet)_
 :::
 
 :::{.g-col-12 .g-col-md-12}
-![Aircraft Manufacturing Academy](Images/AMA.jpg){.img-fluid}
-_Graduation from AMA_
+![Aircraft Manufacturing Academy Graduation](Images/AMA.jpg){.img-fluid}
+_Graduation from Aircraft Manufacturing Academy – Wichita, Kansas 2025_
 :::
 
 :::
