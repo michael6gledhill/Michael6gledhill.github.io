@@ -30,7 +30,7 @@ website:
       - text: "My Resume"
         file: resume.qmd
       - text: "Civil Air Patrol"
-        file: cleansing.qmd
+        file: civil_air_patrol.qmd
       - text: "Data Exploration"
         file: exploration.qmd
       - text: "Story Telling"

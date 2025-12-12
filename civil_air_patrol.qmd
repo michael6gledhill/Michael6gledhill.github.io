@@ -35,7 +35,7 @@ Motivated Civil Air Patrol cadet with strong leadership, cybersecurity, and avia
 
 **Michael Gledhill** | Cadet Captain, Civil Air Patrol  
 906 Silktree Cir, Elizabethtown, KY 42701  
-📱 (502) 269-2525 | 📧 c_mgledhill@kywg.cap.gov
+[(502) 269-2525](tel:5022692525) | [c_mgledhill@kywg.cap.gov](mailto:c_mgledhill@kywg.cap.gov)
 
 ---
 
@@ -125,23 +125,28 @@ Serve as a U.S. Air Force pilot. Interests include commercial aviation and aircr
 :::{.grid}
 
 :::{.g-col-12 .g-col-md-6}
-![Civil Air Patrol Flight Operations](Images/cap1.jpg){.img-fluid}
+![Ohio Wing Encampment](Images/ENC2.jpg){.img-fluid}
+_C-17 Full Motion Simulator_
 :::
 
 :::{.g-col-12 .g-col-md-6}
-![With CAP Pilot Instructor](Images/cap2.jpg){.img-fluid}
+![Kentucky Wing Encampment](Images/ENC1.jpg){.img-fluid}
+_I am third from the left in front._
 :::
 
 :::{.g-col-12 .g-col-md-6}
-![Air Force Dress Uniform](Images/cap3.jpg){.img-fluid}
+![Flight Academy](Images/PFA1.jpg){.img-fluid}
+_Me after my first solo (8 hours in)_
 :::
 
 :::{.g-col-12 .g-col-md-6}
-![Solo Flight Experience](Images/cap4.jpg){.img-fluid}
+![Specialized Undergraduate Pilot Training](Images/SUPT1.jpg){.img-fluid}
+_I am on the left next to a former CAP cadet who is now a major in the Air Force._
 :::
 
 :::{.g-col-12 .g-col-md-12}
-![Heartland Composite Squadron Team](Images/cap5.jpg){.img-fluid}
+![Aircraft Manufacturing Academy](Images/AMA.jpg){.img-fluid}
+_Graduation from AMA_
 :::
 
 :::
