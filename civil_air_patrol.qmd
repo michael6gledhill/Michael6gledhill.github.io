@@ -211,28 +211,6 @@ Aerospace engineering exposure and career pathway exploration
 Advanced pilot training toward Civilian Pilot Certificate
 :::
 
-::::
-
-:::: {.g-col-12 style="margin-bottom: 16px;"}
-
-::: {style="background: linear-gradient(135deg, rgba(42,82,152,0.08) 0%, rgba(58,102,172,0.08) 100%); backdrop-filter: blur(10px); border: 1px solid rgba(42,82,152,0.2); border-radius: 12px; padding: 20px; box-shadow: 0 4px 16px rgba(42,82,152,0.08);"}
-**National Blue Beret** — National | TBD
-
-Leadership development and advanced military instruction
-:::
-
-::::
-
-:::: {.g-col-12 style="margin-bottom: 16px;"}
-
-::: {style="background: linear-gradient(135deg, rgba(30,60,114,0.08) 0%, rgba(42,82,152,0.08) 100%); backdrop-filter: blur(10px); border: 1px solid rgba(30,60,114,0.2); border-radius: 12px; padding: 20px; box-shadow: 0 4px 16px rgba(30,60,114,0.08);"}
-**[CyberPatriot Academy](CAP_Projects/national_cadet_special_activities.qmd)** — Various | 2023–2025
-
-Advanced cybersecurity training and national competition
-:::
-
-::::
-
 :::::
 
 ---
