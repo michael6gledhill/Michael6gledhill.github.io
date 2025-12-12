@@ -41,23 +41,46 @@ Motivated Civil Air Patrol cadet with strong leadership, cybersecurity, and avia
 
 ## Skills & Certifications
 
-**CyberPatriot:**  
-Team Captain; National Semifinalist (2023 & 2024)
+### CyberPatriot
+- Team Captain (2023-2026)
+- National Semifinalist (2023-2024, 2024-2025)
 
-**CAP Certifications:**  
-GES, ICUT, SET, CERT*, MRO, MSA, UDF*, GTM3*
+### Civil Air Patrol Certifications
+*= in training
 
-**FEMA ICS:**  
-IS-100, 200, 368, 520, 700, 800
+- **GES** (General Emergency Services)
+- **ICUT** (Introductory Communications User Training)
+- **SET** (Skills Evaluator Training)
+- **CERT*** (Community Emergency Response Team)
+- **MRO** (Mission Radio Operator)
+- **MSA** (Mission Staff Assistant)
+- **UDF*** (Urban Direction Finding)
+- **GTM3*** (Ground Team Member Level 3)
+
+### FEMA ICS Courses
+- IS-100
+- IS-200
+- IS-368
+- IS-520
+- IS-700
+- IS-800
 
 ---
 
 ## Awards & Achievements
 
-- 2× Achievement Ribbons – CyberPatriot leadership & Encampment staff
-- 3× Encampment Ribbons, 3× NCSA Ribbons, Recruiter Ribbon, 2× Community Service Ribbons
-- Rocketry Badge, STEM Badge, Powered Solo Wings, Search and Rescue "Find"
-- AFA Cadet of the Year
+| Award / Ribbon / Badge | Description |
+|------------------------|-------------|
+| Achievement Ribbon (2×) | Awarded for CyberPatriot leadership and Encampment staff service. |
+| Encampment Ribbons (3×) | Earned through participation in three encampments. |
+| NCSA Ribbons (3×) | Awarded for attending three National Cadet Special Activities. |
+| Recruiter Ribbon | Recognized for contributing to squadron growth. |
+| Community Service Ribbons (2×) | Earned for sustained service in community programs. |
+| Rocketry Badge | Awarded for successful completion of CAP rocketry program. |
+| STEM Badge | Recognized for aerospace/STEM project achievement. |
+| Powered Solo Wings | Earned for completing a solo flight in a powered aircraft. |
+| Search and Rescue "Find" | Credited for participation in a SAR mission that resulted in an operational "find." |
+| AFA Cadet of the Year | Selected for outstanding performance, professionalism, and leadership. |
 
 ---
 
