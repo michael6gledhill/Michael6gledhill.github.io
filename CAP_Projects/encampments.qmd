@@ -3,57 +3,71 @@ title: "Civil Air Patrol Encampments"
 subtitle: "Leadership Development & Aerospace Training"
 ---
 
-## Introduction
-
-Civil Air Patrol encampments are intensive, week-long training programs that immerse cadets in leadership development, aerospace education, emergency services, physical fitness, and professional discipline. Cadets live in a military-style environment, complete structured schedules, and participate in hands-on activities and team leadership exercises. These experiences are foundational to developing the competencies required for military service and aviation careers.
-
----
-
-## Encampment History
-
-### 1. Florida Wing Winter Encampment
-
-| Field | Details |
-|-------|---------|
-| **Dates** | December 26, 2022 – January 4, 2023 |
-| **Location** | Camp Landing, Florida |
-| **Role / Activities** | Attended as Basic Cadet |
-| **Description** | Completed foundational cadet training, learning excellence, discipline, and leadership fundamentals. Participated in structured classes, drill and ceremony, physical fitness training, and military-style training exercises. |
-| **Key Takeaways** | Established disciplinary foundation; developed understanding of CAP structure and military culture. |
-| **Rating** | 3–4 / 5 |
-
-### 2. Kentucky Wing Encampment
-
-| Field | Details |
-|-------|---------|
-| **Dates** | 2025 |
-| **Location** | Wendell H. Ford Joint Training Center, Kentucky |
-| **Role / Activities** | Cadet Training Officer & Public Affairs Officer |
-| **Description** | Served as Cadet Training Officer, developing and teaching classes to fellow cadets on leadership and technical subjects. As Public Affairs Officer, captured, edited, and managed photography; coordinated squadron communications and media efforts. |
-| **Key Takeaways** | Developed training delivery and communication skills; gained experience in media relations and information management. |
-| **Rating** | 4 / 5 |
-
-### 3. Ohio Wing Summer Encampment
-
-| Field | Details |
-|-------|---------|
-| **Dates** | 2025 |
-| **Location** | Wright-Patterson Air Force Base, Ohio |
-| **Role / Activities** | ATS (Aerospace Training Services) Flight Commander |
-| **Description** | Led an aerospace training flight in hands-on STEM activities including rocket building and airplane simulator training at Beta Industries. As Flight Commander, participated in the full-motion C-17 simulator demonstration at Wright-Patterson Air Force Base—one of only two flight commanders selected for this advanced opportunity. |
-| **Key Takeaways** | Advanced leadership experience; exposure to cutting-edge aerospace training technology; understanding of U.S. Air Force operations. |
-| **Rating** | 5 / 5 |
+::: {style="background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); color: white; padding: 20px; border-radius: 8px; margin-bottom: 20px;"}
+**3 Intensive Week-Long Encampments • Leadership development, aerospace training, military discipline • Progressive roles from Basic Cadet to Flight Commander**
+:::
 
 ---
 
-## Reflection
+## Florida Wing Winter Encampment {style="color: #1e3c72; border-bottom: 3px solid #1e3c72; padding-bottom: 8px;"}
 
-These three encampments have been instrumental in my development as a Civil Air Patrol cadet and as a leader. They have:
+**Dec 2022 – Jan 2023 | Camp Blanding Joint Training Center, Florida | Basic Cadet**
 
-- **Strengthened my leadership capabilities** through progressive roles and responsibility
-- **Enhanced technical and aerospace knowledge** through hands-on training and classroom instruction
-- **Built professional discipline and military bearing** through structured environments and mentorship
-- **Developed communication and media skills** supporting CAP communications missions
-- **Provided exposure to U.S. Air Force operations** at active military installations
+Foundational cadet training • Excellence, discipline, leadership fundamentals • Structured classes, drill and ceremony, physical fitness, military exercises • Established disciplinary foundation & CAP structure understanding.
 
-These experiences have prepared me for advanced CAP opportunities, such as the Power Flight Academy, and have reinforced my commitment to pursuing a career as a U.S. Air Force pilot. The connections, skills, and mindset developed at encampments continue to guide my service and personal development.
+---
+
+## Kentucky Wing Encampment {style="color: #2a5298; border-bottom: 3px solid #2a5298; padding-bottom: 8px;"}
+
+**2025 | Wendell H. Ford Joint Training Center, Kentucky | Cadet Training Officer & Public Affairs Officer**
+
+Developed & taught leadership classes to fellow cadets • Captured, edited, managed photography • Coordinated squadron communications & media efforts • Training delivery expertise & media relations experience.
+
+---
+
+## Ohio Wing Summer Encampment {style="color: #1e3c72; border-bottom: 3px solid #1e3c72; padding-bottom: 8px;"}
+
+**2025 | Wright-Patterson Air Force Base, Ohio | ATS Flight Commander**
+
+Led aerospace training flight in hands-on STEM activities • Rocket building & airplane simulator training • Full-motion C-17 simulator demonstration at WPAFB (1 of 2 Flight Commanders selected) • Advanced leadership experience with cutting-edge aerospace technology exposure.
+
+---
+
+## Core Competencies Developed
+
+::::: {.grid}
+
+:::: {.g-col-12 .g-col-md-4 style="background: #f0f4f8; padding: 15px; border-left: 4px solid #1e3c72; margin-bottom: 10px;"}
+**Leadership & Command**
+• Progressive responsibility
+• Flight command experience
+• Decision-making under pressure
+::::
+
+:::: {.g-col-12 .g-col-md-4 style="background: #f0f4f8; padding: 15px; border-left: 4px solid #2a5298; margin-bottom: 10px;"}
+**Technical & Aerospace**
+• STEM training delivery
+• Aerospace systems knowledge
+• Flight operations exposure
+::::
+
+:::: {.g-col-12 .g-col-md-4 style="background: #f0f4f8; padding: 15px; border-left: 4px solid #1e3c72; margin-bottom: 10px;"}
+**Communications & Media**
+• Photography & editing
+• Squadron communications
+• Public affairs coordination
+::::
+
+:::::
+
+---
+
+## Impact Summary
+
+**Leadership Development**: Progressive roles from Basic Cadet → Training Officer → Flight Commander • Direct responsibility for 8-12+ cadets • Advanced decision-making in military context
+
+**Technical Proficiency**: Aerospace systems knowledge • STEM instruction capability • Flight operations understanding • C-17 simulator experience
+
+**Military Bearing**: Professional discipline • Structured environment mastery • U.S. Air Force operations exposure • Prepared for service commitment
+
+**Communications Expertise**: Media management • Photography & content creation • Squadron coordination • Public affairs foundation

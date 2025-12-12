@@ -3,76 +3,84 @@ title: "National Cadet Special Activities (NCSAs)"
 subtitle: "Advanced Training & Aerospace Excellence"
 ---
 
-## Introduction
-
-National Cadet Special Activities (NCSAs) are advanced, week-long or multi-week programs designed to give cadets hands-on experience in leadership, aviation, aerospace, STEM, and emergency services. These programs allow cadets to expand their skills, network with peers nationwide, and experience specialized training beyond the squadron and encampment level. NCSAs represent some of the highest-level training opportunities available within the Civil Air Patrol cadet program.
-
----
-
-## NCSA History
-
-### 1. National Power Flight Academy
-
-| Field | Details |
-|-------|---------|
-| **Year** | 2024 |
-| **Location** | Fremont, Nebraska |
-| **Program Focus** | Flight Training & Aviation Operations |
-| **Duration** | One week |
-| **Role / Activities** | Participant in structured flight training program |
-| **Description** | Completed comprehensive flight training including classroom instruction on aerodynamics, aircraft systems, and flight procedures. Accumulated approximately 9 hours of flight time in single-engine aircraft, including one solo flight. Gained hands-on experience in aircraft pre-flight checks, takeoff, landing, and in-flight procedures. |
-| **Key Achievements** | Earned Powered Solo Wings certification; demonstrated proficiency in aircraft handling and decision-making under instruction. |
-| **Impact** | Advanced my skills toward Private Pilot Certificate and reinforced commitment to aviation career. |
-| **Rating** | 5 / 5 |
-
-### 2. Aircraft Manufacturing Academy
-
-| Field | Details |
-|-------|---------|
-| **Year** | 2025 |
-| **Location** | Wichita, Kansas |
-| **Program Focus** | Aerospace Manufacturing & Engineering |
-| **Duration** | One week |
-| **Role / Activities** | Participant in manufacturing and engineering program |
-| **Description** | Attended specialized training focused on aircraft systems, manufacturing processes, and aerospace engineering. Participated in hands-on technical projects exploring production workflows, aircraft assembly techniques, and aerospace design principles. Toured manufacturing facilities and learned from aerospace engineering professionals. |
-| **Key Achievements** | Gained comprehensive understanding of how aircraft are designed, built, and tested; developed appreciation for aerospace manufacturing complexity. |
-| **Impact** | Broadened career perspective to include engineering and manufacturing roles in aerospace industry. |
-| **Rating** | 5 / 5 |
-
-### 3. Specialized Undergraduate Pilot Training (SUPT)
-
-| Field | Details |
-|-------|---------|
-| **Year** | 2025 |
-| **Location** | Columbus Air Force Base, Mississippi |
-| **Program Focus** | Advanced Pilot Training & U.S. Air Force Operations |
-| **Duration** | One week |
-| **Role / Activities** | Selected participant in pilot training orientation |
-| **Description** | Selected from competitive national pool to participate in advanced pilot training activities at an active U.S. Air Force base. Gained exposure to U.S. Air Force pilot operations, advanced flight systems, and military aviation procedures. Networked with Air Force pilots and experienced active-duty military culture firsthand. |
-| **Key Achievements** | Selection from national competition; direct exposure to U.S. Air Force operations and career pathway. |
-| **Impact** | Reinforced commitment to U.S. Air Force pilot career; provided clarity on military aviation requirements and expectations. |
-| **Rating** | 5 / 5 |
+::: {style="background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); color: white; padding: 20px; border-radius: 8px; margin-bottom: 20px;"}
+**5 National Cadet Special Activities • Advanced training across aviation, aerospace engineering, and pilot operations • Competitive selection from national pool**
+:::
 
 ---
 
-## Key Skills Developed Through NCSAs
+## National Power Flight Academy {style="color: #1e3c72; border-bottom: 3px solid #1e3c72; padding-bottom: 8px;"}
 
-- **Aviation & Flight Operations** – Hands-on experience with aircraft systems and procedures
-- **Technical Problem-Solving** – Manufacturing processes and aerospace engineering concepts
-- **Professional Discipline** – Military environment and expectations
-- **Leadership & Networking** – Interaction with national cadet peers and aviation professionals
-- **Decision-Making Under Pressure** – Real-world flight and operational scenarios
+**2024 | Fremont, Nebraska | 9 flight hours | Solo Wings Certified**
+
+Flight training with comprehensive aerodynamics & aircraft systems instruction. Completed solo flight; hands-on pre-flight checks, takeoff, landing procedures. Advanced Private Pilot Certificate pathway.
 
 ---
 
-## Reflection
+## Aircraft Manufacturing Academy {style="color: #2a5298; border-bottom: 3px solid #2a5298; padding-bottom: 8px;"}
 
-Participation in these three National Cadet Special Activities has been transformative in my development as a cadet and aspiring aviator. These programs have:
+**2025 | Wichita, Kansas | Aerospace Manufacturing Focus**
 
-- **Deepened my knowledge of aviation and aerospace** through hands-on experience and professional instruction
-- **Strengthened my technical skills** in aircraft systems, manufacturing, and flight operations
-- **Prepared me for future leadership roles** within Civil Air Patrol and the U.S. Air Force
-- **Expanded my professional network** through connections with cadets, pilots, and aerospace professionals nationwide
-- **Clarified my career pathway** by providing direct exposure to military aviation and engineering opportunities
+Specialized systems training • Production workflows & assembly techniques • Manufacturing facility tours • Aerospace engineering from industry professionals • Broadened career perspective to engineering/manufacturing roles in aerospace.
 
-These experiences are instrumental in achieving my ultimate goal: to serve as a U.S. Air Force pilot. The knowledge, skills, and professional relationships developed through NCSAs continue to guide my decisions and inspire my commitment to excellence.
+---
+
+## Specialized Undergraduate Pilot Training (SUPT-FC) {style="color: #1e3c72; border-bottom: 3px solid #1e3c72; padding-bottom: 8px;"}
+
+**2025 | Columbus Air Force Base, Mississippi | Competitive National Selection**
+
+Selected from national pool for advanced pilot training orientation • Direct exposure to active-duty U.S. Air Force pilot operations • Advanced flight systems & military procedures • Networked with Air Force pilots • Reinforced U.S. Air Force pilot career commitment.
+
+---
+
+## National Blue Beret {style="color: #2a5298; border-bottom: 3px solid #2a5298; padding-bottom: 8px;"}
+
+**TBD | Leadership & Executive Development**
+
+Advanced national leadership program • Executive decision-making in military context • Networking with top cadet leaders nationwide.
+
+---
+
+## CyberPatriot Academy {style="color: #1e3c72; border-bottom: 3px solid #1e3c72; padding-bottom: 8px;"}
+
+**2023–2025 | Advanced Cyber Defense Training**
+
+Multi-year advanced cybersecurity program • Cyber defense competition preparation • Systems security hardening • Network defense strategies • Competitive edge in CyberPatriot competitions.
+
+---
+
+## Core Competencies Developed
+
+::::: {.grid}
+
+:::: {.g-col-12 .g-col-md-4 style="background: #f0f4f8; padding: 15px; border-left: 4px solid #1e3c72; margin-bottom: 10px;"}
+**Aviation & Operations**
+• Aircraft systems & procedures
+• Flight operations • Solo certification
+::::
+
+:::: {.g-col-12 .g-col-md-4 style="background: #f0f4f8; padding: 15px; border-left: 4px solid #2a5298; margin-bottom: 10px;"}
+**Technical Engineering**
+• Manufacturing processes
+• Aerospace design • Systems architecture
+::::
+
+:::: {.g-col-12 .g-col-md-4 style="background: #f0f4f8; padding: 15px; border-left: 4px solid #1e3c72; margin-bottom: 10px;"}
+**Cyber & Security**
+• Systems hardening
+• Network defense • Defense strategies
+::::
+
+:::::
+
+---
+
+## Impact Summary
+
+**Aviation**: 9 flight hours accumulated • Solo Wings certified • Private Pilot pathway established
+
+**Aerospace Engineering**: Manufacturing processes mastery • Industry connections • Expanded career vision
+
+**Cybersecurity**: Competition-ready defense skills • National-level training • Competitive differentiation
+
+**Military Readiness**: U.S. Air Force operations exposure • Leadership at national level • Pilot career pathway clarity
