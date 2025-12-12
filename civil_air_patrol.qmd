@@ -3,21 +3,18 @@ title: "Civil Air Patrol"
 subtitle: "Leadership, Aviation & Aerospace Excellence"
 ---
 
-:::{.grid}
-:::{.g-col-12 .g-col-md-3}
-![](Images/Profile_CAP-modified.png){.img-fluid .rounded-circle style="max-width: 150px; max-height: 150px; width: 150px; height: 150px; object-fit: cover;"}
-
-**Cadet Captain**  
-Heartland Composite Squadron
-
-[(502) 269-2525](tel:5022692525)  
-[Email: c_mgledhill@kywg.cap.gov](mailto:c_mgledhill@kywg.cap.gov)
+::: {style="background: linear-gradient(135deg, rgba(30,60,114,0.1) 0%, rgba(42,82,152,0.1) 100%); backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.2); color: #1e3c72; padding: 30px; border-radius: 16px; margin-bottom: 30px; box-shadow: 0 8px 32px rgba(30,60,114,0.1);"}
+## Cadet Captain | Heartland Composite Squadron
+**Cadet Commander** • 30+ cadets led • 95% mission readiness • 20% advancement increase  
+**CyberPatriot Team Captain** • 2× National Semifinalist • **Powered Solo Wings** • 9 hrs flight • **4.0 GPA**
 :::
 
-:::{.g-col-12 .g-col-md-9}
-**Cadet Commander** | 30+ cadets led | 95% mission readiness | 20% advancement rate increase | **CyberPatriot Team Captain** (2× National Semifinalist) | **Powered Solo Wings** | 9 hrs flight time | **4.0 GPA** | 12 college credits
-:::
-:::
+---
+
+## Contact
+
+**Phone:** [(502) 269-2525](tel:5022692525)  
+**Email:** [c_mgledhill@kywg.cap.gov](mailto:c_mgledhill@kywg.cap.gov)
 
 ---
 
@@ -27,90 +24,273 @@ Leadership development • Cybersecurity • Aviation operations • Emergency s
 
 ---
 
-## Skills & Certifications (Compact)
+## Skills & Certifications
 
-| **CyberPatriot** | Team Captain (2023–Present) • 2× National Semifinalist |
-| **CAP Certs** | GES • ICUT • SET • MRO • MSA • CERT* • UDF* • GTM3* (*in training) |
-| **FEMA ICS** | IS-100, 200, 368, 520, 700, 800 |
+::::: {.grid}
+
+:::: {.g-col-12 .g-col-md-4 style="margin-bottom: 16px;"}
+
+::: {style="background: linear-gradient(135deg, rgba(30,60,114,0.08) 0%, rgba(42,82,152,0.08) 100%); backdrop-filter: blur(10px); border: 1px solid rgba(30,60,114,0.2); border-radius: 12px; padding: 20px; box-shadow: 0 4px 16px rgba(30,60,114,0.08);"}
+**CyberPatriot**
+
+Team Captain (2023–Present) • 2× National Semifinalist • Competition leadership
+:::
+
+::::
+
+:::: {.g-col-12 .g-col-md-4 style="margin-bottom: 16px;"}
+
+::: {style="background: linear-gradient(135deg, rgba(42,82,152,0.08) 0%, rgba(58,102,172,0.08) 100%); backdrop-filter: blur(10px); border: 1px solid rgba(42,82,152,0.2); border-radius: 12px; padding: 20px; box-shadow: 0 4px 16px rgba(42,82,152,0.08);"}
+**CAP Certifications**
+
+GES • ICUT • SET • MRO • MSA • CERT* • UDF* • GTM3* (*in training)
+:::
+
+::::
+
+:::: {.g-col-12 .g-col-md-4 style="margin-bottom: 16px;"}
+
+::: {style="background: linear-gradient(135deg, rgba(30,60,114,0.08) 0%, rgba(42,82,152,0.08) 100%); backdrop-filter: blur(10px); border: 1px solid rgba(30,60,114,0.2); border-radius: 12px; padding: 20px; box-shadow: 0 4px 16px rgba(30,60,114,0.08);"}
+**FEMA ICS**
+
+IS-100, 200, 368, 520, 700, 800 • Emergency management training
+:::
+
+::::
+
+:::::
 
 ---
 
 ## Awards (10 Total)
 
-**Ribbons:** Achievement (2×) • Encampment (3×) • NCSA (3×) • Recruiter • Community Service (2×)  
+::: {style="background: linear-gradient(135deg, rgba(30,60,114,0.06) 0%, rgba(42,82,152,0.06) 100%); backdrop-filter: blur(10px); border: 1px solid rgba(30,60,114,0.15); border-radius: 12px; padding: 20px; box-shadow: 0 4px 16px rgba(30,60,114,0.06);"}
+
+**Ribbons:** Achievement (2×) • Encampment (3×) • NCSA (3×) • Recruiter • Community Service (2×)
+
 **Badges:** Rocketry • STEM • Powered Solo Wings • Search & Rescue "Find" • AFA Cadet of Year
+
+:::
 
 ---
 
 ## Leadership Roles (6 Positions)
 
-| [**Cadet Commander**](CAP_Projects/positions_held.qmd#cadet-commander) | Jun 2024–Present | 30+ cadets, 30-50 weekly ops, training coordination |
-| [**Flight Commander**](CAP_Projects/positions_held.qmd#flight-commander) | 2024–2025 | 8-12 cadet flight, drill, readiness reporting |
-| [**PAO**](CAP_Projects/positions_held.qmd#public-affairs-officer-pao) | 2025 | Photography, media, communications |
-| [**Aero & Comms NCO**](CAP_Projects/positions_held.qmd#aerospace--communications-nco) | 2024–2025 | Aerospace education, radio ops training |
-| [**Safety NCO**](CAP_Projects/positions_held.qmd#assistant-safety-nco) | 2024–2025 | Safety standards, risk assessment, briefings |
-| [**CAC Rep**](CAP_Projects/positions_held.qmd#cadet-advisory-council-cac-representative) | 2024–2025 | Group & Wing advocacy, cadet voice |
+::::: {.grid}
+
+:::: {.g-col-12 style="margin-bottom: 16px;"}
+
+::: {style="background: linear-gradient(135deg, rgba(30,60,114,0.08) 0%, rgba(42,82,152,0.08) 100%); backdrop-filter: blur(10px); border: 1px solid rgba(30,60,114,0.2); border-radius: 12px; padding: 20px; box-shadow: 0 4px 16px rgba(30,60,114,0.08);"}
+**[Cadet Commander](CAP_Projects/positions_held.qmd#cadet-commander)** — Jun 2024–Present
+
+30+ cadets led • 30-50 weekly operations • Training coordination • Mission readiness management
+:::
+
+::::
+
+:::: {.g-col-12 style="margin-bottom: 16px;"}
+
+::: {style="background: linear-gradient(135deg, rgba(42,82,152,0.08) 0%, rgba(58,102,172,0.08) 100%); backdrop-filter: blur(10px); border: 1px solid rgba(42,82,152,0.2); border-radius: 12px; padding: 20px; box-shadow: 0 4px 16px rgba(42,82,152,0.08);"}
+**[Flight Commander](CAP_Projects/positions_held.qmd#flight-commander)** — 2024–2025
+
+8-12 cadet flight leadership • Drill and ceremony • Readiness reporting • Accountability
+:::
+
+::::
+
+:::: {.g-col-12 style="margin-bottom: 16px;"}
+
+::: {style="background: linear-gradient(135deg, rgba(30,60,114,0.08) 0%, rgba(42,82,152,0.08) 100%); backdrop-filter: blur(10px); border: 1px solid rgba(30,60,114,0.2); border-radius: 12px; padding: 20px; box-shadow: 0 4px 16px rgba(30,60,114,0.08);"}
+**[Public Affairs Officer (PAO)](CAP_Projects/positions_held.qmd#public-affairs-officer-pao)** — 2025
+
+Photography & video documentation • Media curation • Social media coordination • Communications
+:::
+
+::::
+
+:::: {.g-col-12 style="margin-bottom: 16px;"}
+
+::: {style="background: linear-gradient(135deg, rgba(42,82,152,0.08) 0%, rgba(58,102,172,0.08) 100%); backdrop-filter: blur(10px); border: 1px solid rgba(42,82,152,0.2); border-radius: 12px; padding: 20px; box-shadow: 0 4px 16px rgba(42,82,152,0.08);"}
+**[Aerospace & Communications NCO](CAP_Projects/positions_held.qmd#aerospace--communications-nco)** — 2024–2025
+
+Aerospace education programs • Radio operations training • Communications systems • Equipment maintenance
+:::
+
+::::
+
+:::: {.g-col-12 style="margin-bottom: 16px;"}
+
+::: {style="background: linear-gradient(135deg, rgba(30,60,114,0.08) 0%, rgba(42,82,152,0.08) 100%); backdrop-filter: blur(10px); border: 1px solid rgba(30,60,114,0.2); border-radius: 12px; padding: 20px; box-shadow: 0 4px 16px rgba(30,60,114,0.08);"}
+**[Assistant Safety NCO](CAP_Projects/positions_held.qmd#assistant-safety-nco)** — 2024–2025
+
+Safety standards maintenance • Risk assessment • Safety briefings • Compliance monitoring • Incident reporting
+:::
+
+::::
+
+:::: {.g-col-12 style="margin-bottom: 16px;"}
+
+::: {style="background: linear-gradient(135deg, rgba(42,82,152,0.08) 0%, rgba(58,102,172,0.08) 100%); backdrop-filter: blur(10px); border: 1px solid rgba(42,82,152,0.2); border-radius: 12px; padding: 20px; box-shadow: 0 4px 16px rgba(42,82,152,0.08);"}
+**[Cadet Advisory Council (CAC) Representative](CAP_Projects/positions_held.qmd#cadet-advisory-council-cac-representative)** — 2024–2025
+
+Group & Wing advocacy • Cadet perspective communication • Program feedback • Best practices sharing
+:::
+
+::::
+
+:::::
 
 ---
 
 ## Encampments (3 Total)
 
-| [**Ohio Wing**](CAP_Projects/encampments.qmd#3-ohio-wing-summer-encampment) | ATS Flight Commander | 2025 | C-17 simulator, rocket building, aerospace training |
-| [**Kentucky**](CAP_Projects/encampments.qmd#2-kentucky-wing-encampment) | Cadet Training Officer & PAO | 2025 | Teaching classes, media documentation |
-| [**Florida**](CAP_Projects/encampments.qmd#1-florida-wing-winter-encampment) | Basic Cadet | 2024 | Foundational training, drill, fitness |
+::::: {.grid}
+
+:::: {.g-col-12 style="margin-bottom: 16px;"}
+
+::: {style="background: linear-gradient(135deg, rgba(30,60,114,0.08) 0%, rgba(42,82,152,0.08) 100%); backdrop-filter: blur(10px); border: 1px solid rgba(30,60,114,0.2); border-radius: 12px; padding: 20px; box-shadow: 0 4px 16px rgba(30,60,114,0.08);"}
+**[Ohio Wing Summer](CAP_Projects/encampments.qmd)** — 2025
+
+ATS Flight Commander • C-17 simulator • Rocket building • Aerospace training • 1 of 2 Flight Commanders selected
+:::
+
+::::
+
+:::: {.g-col-12 style="margin-bottom: 16px;"}
+
+::: {style="background: linear-gradient(135deg, rgba(42,82,152,0.08) 0%, rgba(58,102,172,0.08) 100%); backdrop-filter: blur(10px); border: 1px solid rgba(42,82,152,0.2); border-radius: 12px; padding: 20px; box-shadow: 0 4px 16px rgba(42,82,152,0.08);"}
+**[Kentucky Wing](CAP_Projects/encampments.qmd)** — 2025
+
+Cadet Training Officer & PAO • Teaching classes • Media documentation • Leadership instruction • Communications
+:::
+
+::::
+
+:::: {.g-col-12 style="margin-bottom: 16px;"}
+
+::: {style="background: linear-gradient(135deg, rgba(30,60,114,0.08) 0%, rgba(42,82,152,0.08) 100%); backdrop-filter: blur(10px); border: 1px solid rgba(30,60,114,0.2); border-radius: 12px; padding: 20px; box-shadow: 0 4px 16px rgba(30,60,114,0.08);"}
+**[Florida Wing Winter](CAP_Projects/encampments.qmd)** — 2022–2023
+
+Basic Cadet • Foundational military training • Drill and ceremony • Physical fitness • Established disciplinary foundation
+:::
+
+::::
+
+:::::
 
 ---
 
 ## National Activities (5 Total)
 
-| [**Power Flight Academy**](CAP_Projects/national_cadet_special_activities.qmd#1-national-power-flight-academy) | Fremont, NE | 2024 | **9 hrs flight + solo certification** |
-| [**Aircraft Mfg Academy**](CAP_Projects/national_cadet_special_activities.qmd#2-aircraft-manufacturing-academy) | Wichita, KS | 2025 | Systems, manufacturing, engineering |
-| [**SUPT-FC**](CAP_Projects/national_cadet_special_activities.qmd#3-specialized-undergraduate-pilot-training-supt) | Columbus AFB, MS | 2025 | Selected nationally (attendance deferred) |
-| **National Blue Beret** | National | TBD | Training program |
-| **CyberPatriot Academy** | Various | 2023–2025 | Advanced cyber defense |
+::::: {.grid}
+
+:::: {.g-col-12 style="margin-bottom: 16px;"}
+
+::: {style="background: linear-gradient(135deg, rgba(30,60,114,0.08) 0%, rgba(42,82,152,0.08) 100%); backdrop-filter: blur(10px); border: 1px solid rgba(30,60,114,0.2); border-radius: 12px; padding: 20px; box-shadow: 0 4px 16px rgba(30,60,114,0.08);"}
+**[Power Flight Academy](CAP_Projects/national_cadet_special_activities.qmd)** — Fremont, NE | 2024
+
+9 flight hours • Solo certification • Aerodynamics training • Aircraft systems • Private Pilot pathway
+:::
+
+::::
+
+:::: {.g-col-12 style="margin-bottom: 16px;"}
+
+::: {style="background: linear-gradient(135deg, rgba(42,82,152,0.08) 0%, rgba(58,102,172,0.08) 100%); backdrop-filter: blur(10px); border: 1px solid rgba(42,82,152,0.2); border-radius: 12px; padding: 20px; box-shadow: 0 4px 16px rgba(42,82,152,0.08);"}
+**[Aircraft Manufacturing Academy](CAP_Projects/national_cadet_special_activities.qmd)** — Wichita, KS | 2025
+
+Aerospace systems • Manufacturing processes • Engineering principles • Facility tours • Industry professionals
+:::
+
+::::
+
+:::: {.g-col-12 style="margin-bottom: 16px;"}
+
+::: {style="background: linear-gradient(135deg, rgba(30,60,114,0.08) 0%, rgba(42,82,152,0.08) 100%); backdrop-filter: blur(10px); border: 1px solid rgba(30,60,114,0.2); border-radius: 12px; padding: 20px; box-shadow: 0 4px 16px rgba(30,60,114,0.08);"}
+**[SUPT-FC](CAP_Projects/national_cadet_special_activities.qmd)** — Columbus AFB, MS | 2025
+
+Selected nationally • Advanced pilot training • U.S. Air Force operations • Active-duty exposure • Attendance deferred
+:::
+
+::::
+
+:::: {.g-col-12 style="margin-bottom: 16px;"}
+
+::: {style="background: linear-gradient(135deg, rgba(42,82,152,0.08) 0%, rgba(58,102,172,0.08) 100%); backdrop-filter: blur(10px); border: 1px solid rgba(42,82,152,0.2); border-radius: 12px; padding: 20px; box-shadow: 0 4px 16px rgba(42,82,152,0.08);"}
+**National Blue Beret** — National | TBD
+
+Advanced leadership • Executive decision-making • National cadet leaders • Military context training
+:::
+
+::::
+
+:::: {.g-col-12 style="margin-bottom: 16px;"}
+
+::: {style="background: linear-gradient(135deg, rgba(30,60,114,0.08) 0%, rgba(42,82,152,0.08) 100%); backdrop-filter: blur(10px); border: 1px solid rgba(30,60,114,0.2); border-radius: 12px; padding: 20px; box-shadow: 0 4px 16px rgba(30,60,114,0.08);"}
+**[CyberPatriot Academy](CAP_Projects/national_cadet_special_activities.qmd)** — Various | 2023–2025
+
+Advanced cybersecurity • Systems security hardening • Network defense • Competition preparation • Competitive edge
+:::
+
+::::
+
+:::::
 
 ---
 
 ## Aviation Experience
 
-**Ground School:** Sporty's Online (completed) • **CAP Flights:** 3 (front/back) • **Power Flight:** 9+ hrs • **Solo:** ✓ Certified  
+::: {style="background: linear-gradient(135deg, rgba(30,60,114,0.06) 0%, rgba(42,82,152,0.06) 100%); backdrop-filter: blur(10px); border: 1px solid rgba(30,60,114,0.15); border-radius: 12px; padding: 20px; box-shadow: 0 4px 16px rgba(30,60,114,0.06);"}
+
+**Ground School:** Sporty's Online (completed) • **CAP Flights:** 3 (front/back) • **Power Flight:** 9+ hours • **Solo Flight:** Certified
+
 **Goal:** Private Pilot Certificate → U.S. Air Force pilot training
+
+:::
 
 ---
 
 ## Education
 
-**Status:** Homeschooled w/ dual enrollment • **Credits:** 12 (4.0 GPA) • **Math:** Pre-Algebra, Alg I/II, Geometry, Business Math • **Age:** 17
+::: {style="background: linear-gradient(135deg, rgba(42,82,152,0.06) 0%, rgba(58,102,172,0.06) 100%); backdrop-filter: blur(10px); border: 1px solid rgba(42,82,152,0.15); border-radius: 12px; padding: 20px; box-shadow: 0 4px 16px rgba(42,82,152,0.06);"}
+
+**Status:** Homeschooled with dual enrollment • **College Credits:** 12 (4.0 GPA) • **Math:** Pre-Algebra, Algebra I/II, Geometry, Business Math • **Age:** 17
+
+:::
 
 ---
 
 ## Career Goal
 
+::: {style="background: linear-gradient(135deg, rgba(30,60,114,0.06) 0%, rgba(42,82,152,0.06) 100%); backdrop-filter: blur(10px); border: 1px solid rgba(30,60,114,0.15); border-radius: 12px; padding: 20px; box-shadow: 0 4px 16px rgba(30,60,114,0.06);"}
+
 **U.S. Air Force Pilot** — Commercial aviation • Aircraft systems & maintenance engineering • Aerospace leadership
+
+:::
 
 ---
 
 ## Photo Gallery
 
-:::{.grid}
-:::{.g-col-6}
-![](Images/ENC2.jpg){.img-fluid} 
+::::: {.grid}
+:::: {.g-col-6 style="margin-bottom: 12px;"}
+![](Images/ENC2.jpg){.img-fluid .rounded style="box-shadow: 0 4px 16px rgba(30,60,114,0.15);"}
 _C-17 Simulator_
-:::
-:::{.g-col-6}
-![](Images/ENC1.jpg){.img-fluid}
+::::
+:::: {.g-col-6 style="margin-bottom: 12px;"}
+![](Images/ENC1.jpg){.img-fluid .rounded style="box-shadow: 0 4px 16px rgba(42,82,152,0.15);"}
 _Squadron Team_
-:::
-:::{.g-col-6}
-![](Images/PFA1.jpg){.img-fluid}
+::::
+:::: {.g-col-6 style="margin-bottom: 12px;"}
+![](Images/PFA1.jpg){.img-fluid .rounded style="box-shadow: 0 4px 16px rgba(30,60,114,0.15);"}
 _First Solo_
-:::
-:::{.g-col-6}
-![](Images/SUPT1.jpg){.img-fluid}
+::::
+:::: {.g-col-6 style="margin-bottom: 12px;"}
+![](Images/SUPT1.jpg){.img-fluid .rounded style="box-shadow: 0 4px 16px rgba(42,82,152,0.15);"}
 _SUPT-FC_
-:::
-:::{.g-col-12}
-![](Images/AMA.jpg){.img-fluid}
+::::
+:::: {.g-col-12}
+![](Images/AMA.jpg){.img-fluid .rounded style="box-shadow: 0 4px 16px rgba(30,60,114,0.15);"}
 _Aircraft Mfg Graduation_
-:::
-:::
+::::
+:::::
