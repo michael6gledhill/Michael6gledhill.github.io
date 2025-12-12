@@ -1,55 +1,57 @@
 ---
 layout: cv
-title: Michael Gledhill's CV
+title: Michael Gledhill's Resume
 ---
+
 # Michael Gledhill
-Cadet Commander | Civil Air Patrol – Heartland Composite Squadron | Emergency Services • Aerospace Education • Cadet Leadership & Development | Aspiring Military Aviator
 
-<div id="webaddress">
-<a href="michael6gledhill@gmail.com">michael6gledhill@gmail.com</a>
-| <a href="tel:2707741565">2707741565 (Mobile)</a>
-| <a href="https://www.linkedin.com/in/michael-gledhill-65a153389">LinkedIn Profile</a>
-</div>
+**Email:** michael6gledhill@gmail.com | **Phone:** 2707741565 | **LinkedIn:** [michael-gledhill-65a153389](https://www.linkedin.com/in/michael-gledhill-65a153389)
 
-Elizabethtown, Kentucky, United States 
+---
 
-## Summary
+## SUMMARY
 
 Disciplined, mission-focused leader with experience in aviation, emergency services, and structured team operations through the Civil Air Patrol. Proven ability to manage training programs, develop cadets, coordinate operations, and strengthen organizational readiness. Demonstrates high-reliability decision-making, technical problem-solving, and operational discipline.
 
-## Top Skills
+---
 
-Leadership & Mentorship • Training & Operations Oversight • Program Management & Planning • Crisis Management • Organizational Coordination • Technical Skills: Basic Python, Basic SQL, Computer Science coursework
+## EDUCATION
+
+**Brigham Young University - Idaho Online**  
+Associate's degree in Computer Science | February 2024 - December 2032
+
+---
+
+## EXPERIENCE
+
+### Cadet Commander
+**Civil Air Patrol – Heartland Composite Squadron** | Elizabethtown, Kentucky  
+June 2024 - Present
+
+- Led and mentored 30+ cadets, improving leadership development, emergency services readiness, and team performance; increased cadet advancement rates by 20% over 12 months
+- Directed weekly operations for 30–50 participants, coordinating training, instruction, safety, logistics, and mission-focused activities
+- Implemented structured progression and training plans, achieving 95% mission readiness compliance across squadron programs
+- Earned Student Pilot Certificate and soloed in a single-engine aircraft, completing 15+ solo flight hours
+
+### 3D Printer Repair Specialist
+**Remote Care Partners Center** | Kentucky  
+September 2023 - June 2024
+
+- Repaired and maintained 30+ 3D printers, reducing equipment downtime by 30% and improving production reliability
+- Resolved 100+ technical issues across multiple printer models, ensuring consistent, high-quality medical device output
+- Collaborated with production and engineering teams to optimize printer workflows, accelerating device turnaround by 15% and supporting delivery of 100,000+ medical devices
+
+---
+
+## TOP SKILLS
+
+**Leadership & Development:**  
+Leadership & Mentorship • Training & Operations Oversight • Cadet Development • Crisis Management
+
+**Operations & Management:**  
+Program Management & Planning • Organizational Coordination • Operational Discipline • Decision-Making
+
+**Technical Skills:**  
+Basic Python • Basic SQL • Computer Science Coursework
 
 
-## Education
-
-`February 2024 - December 2032`
-__Brigham Young University - Idaho Online__
-
-Associate's degree, Computer Science
-
-
-
-## Experience
-
-`June 2024 - Present`
-__Cadet Commander__, *Civil Air Patrol – Heartland Composite Squadron*, Elizabethtown, Kentucky
-
-- Led and mentored 30+ cadets, improving leadership development, emergency services readiness, and team performance; increased cadet advancement rates by 20% over 12 months.
-- Directed weekly operations for 30–50 participants, coordinating training, instruction, safety, logistics, and mission-focused activities.
-- Implemented structured progression and training plans, achieving 95% mission readiness compliance across squadron programs.
-- Earned Student Pilot Certificate and soloed in a single-engine aircraft, completing 15+ solo flight hours.
-
-`September 2023 - June 2024`
-__3D Printer Repair Specialist__, *Remote Care Partners Center*, Kentucky
-
-- Repaired and maintained 30+ 3D printers, reducing equipment downtime by 30% and improving production reliability.
-- Resolved 100+ technical issues across multiple printer models, ensuring consistent, high-quality medical device output.
-- Collaborated with production and engineering teams to optimize printer workflows, accelerating device turnaround by 15% and supporting delivery of 100,000+ medical devices.
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
