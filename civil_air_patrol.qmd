@@ -4,188 +4,113 @@ subtitle: "Leadership, Aviation & Aerospace Excellence"
 ---
 
 :::{.grid}
-
 :::{.g-col-12 .g-col-md-3}
+![](Images/Profile_CAP-modified.png){.img-fluid .rounded-circle style="max-width: 150px; max-height: 150px; width: 150px; height: 150px; object-fit: cover;"}
 
-![](Images/Profile_CAP-modified.png){.img-fluid .rounded-circle style="max-width: 200px; max-height: 200px; width: 200px; height: 200px; object-fit: cover;"}
+**Cadet Captain**  
+Heartland Composite Squadron
 
+[(502) 269-2525](tel:5022692525)  
+[Email](mailto:c_mgledhill@kywg.cap.gov)
 :::
 
 :::{.g-col-12 .g-col-md-9}
-
-## Elevator Speech
-
-I am the **Cadet Commander** of Civil Air Patrol's Heartland Composite Squadron, leading 30+ cadets in leadership development, aviation operations, and emergency services. With a **Cadet Captain** rank achieved through consistent advancement and the Mitchell Award for honor credit, I have completed three encampments and three National Cadet Special Activities. As a **CyberPatriot Team Captain and two-time National Semifinalist**, I combine technical expertise with aviation proficiency. I have completed my **Powered Solo Wings** and logged 9 hours toward my pilot rating. My goal is to become a U.S. Air Force pilot while continuing to serve as a mentor and leader.
-
+**Cadet Commander** | 30+ cadets led | 95% mission readiness | 20% advancement rate increase | **CyberPatriot Team Captain** (2× National Semifinalist) | **Powered Solo Wings** | 9 hrs flight time | **4.0 GPA** | 12 college credits
 :::
-
 :::
-
----
-
-## Contact Information
-
-**Michael Gledhill** | Cadet Captain, Civil Air Patrol  
-906 Silktree Circle, Elizabethtown, Kentucky 42701  
-[(502) 269-2525](tel:5022692525) | [c_mgledhill@kywg.cap.gov](mailto:c_mgledhill@kywg.cap.gov)
 
 ---
 
 ## Summary
 
-Motivated Civil Air Patrol cadet leader with demonstrated expertise in leadership development, cybersecurity, and aviation. Known for taking on complex responsibilities, performing reliably under pressure, and maintaining high professionalism standards. Passionate about aerospace, technology, and service. Pursuing a career as a U.S. Air Force pilot.
+Leadership development • Cybersecurity • Aviation operations • Emergency services • Aerospace education
 
 ---
 
-## Skills & Certifications
+## Skills & Certifications (Compact)
 
-### CyberPatriot Program
-
-| Role / Achievement | Years |
-|-------------------|-------|
-| Team Captain | 2023–Present |
-| National Semifinalist | 2023–2024, 2024–2025 |
-
-### Civil Air Patrol Certifications
-
-**Note:** *= in training
-
-| Certification | Full Name |
-|---------------|-----------|
-| GES | General Emergency Services |
-| ICUT | Introductory Communications User Training |
-| SET | Skills Evaluator Training |
-| CERT* | Community Emergency Response Team |
-| MRO | Mission Radio Operator |
-| MSA | Mission Staff Assistant |
-| UDF* | Urban Direction Finding |
-| GTM3* | Ground Team Member Level 3 |
-
-### FEMA ICS Courses
-
-- IS-100 (Introduction to ICS)
-- IS-200 (ICS for Single Resources and Initial Action Incidents)
-- IS-368 (ICS Multihazard, Mass Casualty Evacuation)
-- IS-520 (Operations Planning)
-- IS-700 (National Incident Management System)
-- IS-800 (National Response Framework)
+| **CyberPatriot** | Team Captain (2023–Present) • 2× National Semifinalist |
+| **CAP Certs** | GES • ICUT • SET • MRO • MSA • CERT* • UDF* • GTM3* (*in training) |
+| **FEMA ICS** | IS-100, 200, 368, 520, 700, 800 |
 
 ---
 
-## Awards & Achievements
+## Awards (10 Total)
 
-| Award / Ribbon / Badge | Description |
-|------------------------|-------------|
-| Achievement Ribbon (2×) | CyberPatriot leadership & encampment staff |
-| Encampment Ribbon (3×) | Participation in three encampments |
-| NCSA Ribbon (3×) | Attendance in three National Cadet Special Activities |
-| Recruiter Ribbon | Contributed to squadron growth |
-| Community Service Ribbon (2×) | Service in community preparedness programs |
-| Rocketry Badge | CAP rocketry certification |
-| STEM Badge | Aerospace/STEM project recognition |
-| Powered Solo Wings | Solo flight in a powered aircraft |
-| Search & Rescue "Find" | Successful participation in a SAR mission |
-| AFA Cadet of the Year | Outstanding performance, professionalism, leadership |
+**Ribbons:** Achievement (2×) • Encampment (3×) • NCSA (3×) • Recruiter • Community Service (2×)  
+**Badges:** Rocketry • STEM • Powered Solo Wings • Search & Rescue "Find" • AFA Cadet of Year
 
 ---
 
-## Leadership Experience
+## Leadership Roles (6 Positions)
 
-**Civil Air Patrol Member | June 2023–Present**
-
-**Current Role:** [Cadet Commander](CAP_Projects/positions_held.qmd#cadet-commander)
-
-Lead and mentor 30+ cadets; oversee leadership development and mission readiness. Manage weekly operations for 30–50 participants. Coordinate training, safety, instruction, and logistics. Maintain CAP core values and mission-focused culture.
-
-**Previous Roles:**
-[Flight Commander](CAP_Projects/positions_held.qmd#flight-commander) | [Public Affairs Officer](CAP_Projects/positions_held.qmd#public-affairs-officer-pao) | [Aerospace & Communications NCO](CAP_Projects/positions_held.qmd#aerospace--communications-nco) | [Assistant Safety NCO](CAP_Projects/positions_held.qmd#assistant-safety-nco) | [CAC Representative](CAP_Projects/positions_held.qmd#cadet-advisory-council-cac-representative)
+| [**Cadet Commander**](CAP_Projects/positions_held.qmd#cadet-commander) | Jun 2024–Present | 30+ cadets, 30-50 weekly ops, training coordination |
+| [**Flight Commander**](CAP_Projects/positions_held.qmd#flight-commander) | 2024–2025 | 8-12 cadet flight, drill, readiness reporting |
+| [**PAO**](CAP_Projects/positions_held.qmd#public-affairs-officer-pao) | 2025 | Photography, media, communications |
+| [**Aero & Comms NCO**](CAP_Projects/positions_held.qmd#aerospace--communications-nco) | 2024–2025 | Aerospace education, radio ops training |
+| [**Safety NCO**](CAP_Projects/positions_held.qmd#assistant-safety-nco) | 2024–2025 | Safety standards, risk assessment, briefings |
+| [**CAC Rep**](CAP_Projects/positions_held.qmd#cadet-advisory-council-cac-representative) | 2024–2025 | Group & Wing advocacy, cadet voice |
 
 ---
 
-## Encampment Experience
+## Encampments (3 Total)
 
-| Activity | Role | Location | Year |
-|----------|------|----------|------|
-| [Summer Encampment](CAP_Projects/encampments.qmd#3-ohio-wing-summer-encampment) | ATS Flight Commander | Ohio Wing | 2025 |
-| [Encampment](CAP_Projects/encampments.qmd#2-kentucky-wing-encampment) | Cadet Training Officer & PAO | Kentucky Wing | 2025 |
-| [Winter Encampment](CAP_Projects/encampments.qmd#1-florida-wing-winter-encampment) | Graduate | Florida Wing | 2024 |
+| [**Ohio Wing**](CAP_Projects/encampments.qmd#3-ohio-wing-summer-encampment) | ATS Flight Commander | 2025 | C-17 simulator, rocket building, aerospace training |
+| [**Kentucky**](CAP_Projects/encampments.qmd#2-kentucky-wing-encampment) | Cadet Training Officer & PAO | 2025 | Teaching classes, media documentation |
+| [**Florida**](CAP_Projects/encampments.qmd#1-florida-wing-winter-encampment) | Basic Cadet | 2024 | Foundational training, drill, fitness |
 
 ---
 
-## National Cadet Special Activities (NCSAs)
+## National Activities (5 Total)
 
-| Activity | Location | Year | Notes |
-|----------|----------|------|-------|
-| [Power Flight Academy](CAP_Projects/national_cadet_special_activities.qmd#1-national-power-flight-academy) | Fremont, NE | 2025 | 9 hours flight; solo certification |
-| [Aircraft Manufacturing Academy](CAP_Projects/national_cadet_special_activities.qmd#2-aircraft-manufacturing-academy) | Wichita, KS | 2025 | Aerospace systems & manufacturing |
-| [SUPT-FC](CAP_Projects/national_cadet_special_activities.qmd#3-specialized-undergraduate-pilot-training-supt) | Columbus AFB, MS | 2025 | Selected; attendance deferred |
-| National Blue Beret | National | TBD | Training program |
-| CyberPatriot Academy | Various | 2023–2025 | Advanced cyber defense training |
-
+| [**Power Flight Academy**](CAP_Projects/national_cadet_special_activities.qmd#1-national-power-flight-academy) | Fremont, NE | 2024 | **9 hrs flight + solo certification** |
+| [**Aircraft Mfg Academy**](CAP_Projects/national_cadet_special_activities.qmd#2-aircraft-manufacturing-academy) | Wichita, KS | 2025 | Systems, manufacturing, engineering |
+| [**SUPT-FC**](CAP_Projects/national_cadet_special_activities.qmd#3-specialized-undergraduate-pilot-training-supt) | Columbus AFB, MS | 2025 | Selected nationally (attendance deferred) |
+| **National Blue Beret** | National | TBD | Training program |
+| **CyberPatriot Academy** | Various | 2023–2025 | Advanced cyber defense |
 
 ---
 
 ## Aviation Experience
 
-- **Sporty's Online Ground School:** Completed
-- **CAP Orientation Flights:** 3 flights (front/back seats)
-- **Power Flight Academy:** 9+ hours, including solo flight
-- **Powered Solo Wings:** Earned
-
-**Goals:** Complete Private Pilot Certificate; pursue U.S. Air Force pilot training
+**Ground School:** Sporty's Online (completed) • **CAP Flights:** 3 (front/back) • **Power Flight:** 9+ hrs • **Solo:** ✓ Certified  
+**Goal:** Private Pilot Certificate → U.S. Air Force pilot training
 
 ---
 
 ## Education
 
-| Category | Details |
-|----------|--------|
-| Academic Status | Homeschooled with dual enrollment |
-| College Credits | 12 completed |
-| GPA | **4.0** (unweighted) |
-| Math Coursework | Pre-Algebra, Algebra I & II, Geometry, Business Math |
-| Age | 17 |
+**Status:** Homeschooled w/ dual enrollment • **Credits:** 12 (4.0 GPA) • **Math:** Pre-Algebra, Alg I/II, Geometry, Business Math • **Age:** 17
 
 ---
 
-## Career Goals
+## Career Goal
 
-**Serve as a U.S. Air Force Pilot**
-
-Long-term interests:
-- Commercial aviation operations
-- Aircraft systems & maintenance engineering
-- Aerospace leadership & command
+**U.S. Air Force Pilot** — Commercial aviation • Aircraft systems & maintenance engineering • Aerospace leadership
 
 ---
 
 ## Photo Gallery
 
 :::{.grid}
-
-:::{.g-col-12 .g-col-md-6}
-![Ohio Wing Summer Encampment](Images/ENC2.jpg){.img-fluid}
-_C-17 Full Motion Simulator – Ohio Wing Summer Encampment 2025_
+:::{.g-col-6}
+![](Images/ENC2.jpg){.img-fluid} 
+_C-17 Simulator_
 :::
-
-:::{.g-col-12 .g-col-md-6}
-![Kentucky Wing Encampment](Images/ENC1.jpg){.img-fluid}
-_Squadron Leadership Team – Kentucky Wing Encampment 2025 (third from left, front row)_
+:::{.g-col-6}
+![](Images/ENC1.jpg){.img-fluid}
+_Squadron Team_
 :::
-
-:::{.g-col-12 .g-col-md-6}
-![Power Flight Academy Solo](Images/PFA1.jpg){.img-fluid}
-_After first solo flight – Power Flight Academy (8 hours of flight training)_
+:::{.g-col-6}
+![](Images/PFA1.jpg){.img-fluid}
+_First Solo_
 :::
-
-:::{.g-col-12 .g-col-md-6}
-![SUPT-FC Orientation](Images/SUPT1.jpg){.img-fluid}
-_Specialized Undergraduate Pilot Training Orientation – Columbus AFB. Pictured with U.S. Air Force Major (former CAP cadet)_
+:::{.g-col-6}
+![](Images/SUPT1.jpg){.img-fluid}
+_SUPT-FC_
 :::
-
-:::{.g-col-12 .g-col-md-12}
-![Aircraft Manufacturing Academy Graduation](Images/AMA.jpg){.img-fluid}
-_Graduation from Aircraft Manufacturing Academy – Wichita, Kansas 2025_
+:::{.g-col-12}
+![](Images/AMA.jpg){.img-fluid}
+_Aircraft Mfg Graduation_
 :::
-
 :::
