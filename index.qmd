@@ -1,10 +1,53 @@
 ---
-title: "about me"
-subtitle: "my data science portfolio"
-# use quarto markdown to 
+title: "Michael Gledhill"
+subtitle: "Leadership • Aviation • Technical Problem-Solving"
 ---
 
-# Title 1 Header
-## Title 2 Header
+:::{.grid}
 
-[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+:::{.g-col-12 .g-col-md-4}
+
+![](/Images/profile.jpg){.img-fluid .rounded-circle style="max-width: 250px;"}
+
+### Quick Links
+
+- [Resume](/resume.html)
+- [Email](mailto:michael6gledhill@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/michael-gledhill-65a153389)
+- [GitHub](https://github.com/michael6gledhill)
+
+:::
+
+:::{.g-col-12 .g-col-md-8}
+
+## 30-Second Elevator Pitch
+
+Hi, I'm **Michael Gledhill**, Cadet Commander at Civil Air Patrol's Heartland Composite Squadron. I lead and mentor 30+ cadets while managing training programs and emergency services operations. As a 3D printer repair specialist, I reduced equipment downtime by 30% and resolved 100+ technical issues for medical device production. I'm a certified student pilot with 15+ solo hours. I combine leadership, technical expertise, and operational discipline to drive mission-focused results.
+
+:::
+
+:::
+
+---
+
+## Recent Projects
+
+*Links to your latest projects, case studies, and portfolio work will be posted here.*
+
+| Project | Description | Link |
+|---------|-------------|------|
+| Project 1 | Description | [View](#) |
+| Project 2 | Description | [View](#) |
+| Project 3 | Description | [View](#) |
+
+---
+
+### About Me
+
+I'm a disciplined, mission-focused leader with hands-on experience in aviation, emergency services, and team operations. My background includes:
+
+- **Leadership:** Leading 30+ cadets, managing weekly operations for 50+ participants, developing structured training programs
+- **Technical Skills:** 3D printer maintenance and troubleshooting, basic Python and SQL, computer science coursework
+- **Aviation:** Student Pilot Certificate with 15+ solo flight hours in single-engine aircraft
+
+I'm pursuing opportunities where I can contribute to mission-focused teams while continuing to develop as a professional.
