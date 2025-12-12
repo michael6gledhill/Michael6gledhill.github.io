@@ -1,6 +1,5 @@
 ---
 layout: cv
-title: Michael Gledhill's Resume
 ---
 
 # Michael Gledhill
