@@ -53,20 +53,14 @@ website:
         - text: "Civil Air Patrol"
           file: civil_air_patrol.qmd
         - text: "---"
-        - text: "Project 1"
-          file: Civil_Air_Patrol_Projects/project1.qmd
+        - text: "Encampments"
+          file: CAP_Projects/encampments.qmd
         - text: "---"
-        - text: "Project 2"
-          file: Civil_Air_Patrol_Projects/project2.qmd
+        - text: "National Cadet Special Activities"
+          file: CAP_Projects/national_cadet_special_activities.qmd
         - text: "---"
-        - text: "Project 3"
-          file: Civil_Air_Patrol_Projects/project3.qmd
-        - text: "---"
-        - text: "Project 4"
-          file: Civil_Air_Patrol_Projects/project4.qmd
-        - text: "---"
-        - text: "Project 5"
-          file: Civil_Air_Patrol_Projects/project5.qmd
+        - text: "Positions Held"
+          file: CAP_Projects/positions_held.qmd
         - text: "---"
     - title: "Data Exploration"
       style: "docked"
