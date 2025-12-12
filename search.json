@@ -67,18 +67,15 @@
     ]
   },
   {
-    "objectID": "CAP_Projects/project1.html",
-    "href": "CAP_Projects/project1.html",
+    "objectID": "CAP_Projects/positions_held.html",
+    "href": "CAP_Projects/positions_held.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "CAP_Projects/project2.html",
-    "href": "CAP_Projects/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Civil Air Patrol",
+      "Positions Held"
+    ]
   },
   {
     "objectID": "Story_Telling/project5.html",
@@ -502,25 +499,26 @@
     ]
   },
   {
-    "objectID": "CAP_Projects/project3.html",
-    "href": "CAP_Projects/project3.html",
+    "objectID": "CAP_Projects/encampments.html",
+    "href": "CAP_Projects/encampments.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Civil Air Patrol",
+      "Encampments"
+    ]
   },
   {
-    "objectID": "CAP_Projects/project4.html",
-    "href": "CAP_Projects/project4.html",
+    "objectID": "CAP_Projects/national_cadet_special_activities.html",
+    "href": "CAP_Projects/national_cadet_special_activities.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "CAP_Projects/project5.html",
-    "href": "CAP_Projects/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Civil Air Patrol",
+      "National Cadet Special Activities"
+    ]
   },
   {
     "objectID": "Cleansing_Exploration/project3.html",
